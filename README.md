@@ -1,5 +1,5 @@
 # android-dicodingtrial
-Dicoding Trial - Android Studio #stayathome
+Dicoding Trial - Android Studio
 
 *with additional content*
 
