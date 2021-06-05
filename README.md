@@ -1,4 +1,4 @@
-# android-dicodingtrial
+# Android-DicodingTrial
 Dicoding Trial - Android Studio
 
 *with additional content*
